@@ -23,8 +23,8 @@
 #define SECRET_SSID "JioFi3_259D0E" // replace MySSID with your WiFi network name
 #define SECRET_PASS "k61m12m0u5"
 
-#define SECRET_CH_ID  1650331 // replace 0000000 with your channel number
-#define SECRET_WRITE_APIKEY "5Z1I5W4AQ4AMFRNT"
+#define SECRET_CH_ID  ****** // replace 0000000 with your channel number
+#define SECRET_WRITE_APIKEY "*******"
 /*End of Credientials*/
 
 /*Variable defining*/
